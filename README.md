@@ -1,0 +1,1 @@
+Documenting my 3-month journey into Data Science and Machine Learning — from Python fundamentals to real-world ML projects. This repo includes structured progress, notebooks, and hands-on mini-projects. Aiming to build strong, practical skills in DS & ML.
